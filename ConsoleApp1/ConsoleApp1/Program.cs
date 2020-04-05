@@ -51,6 +51,7 @@ namespace ConsoleApp1
 
             httpClient.Dispose();
             Console.WriteLine("Koniec!");
+             //inny branch?
         }
     }
 }
